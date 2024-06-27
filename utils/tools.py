@@ -14,7 +14,7 @@ class Tools ():
         file = open("./log/channelsoff.md", "w")
         file.write("# Canais Offline\n\n")
         file.write("| Canal | Motivo |\n")
-        file.write("| ----- | ------ |\n")
+        file.write("| Canal | Motivo |\n")
         file.close()
         
         #define VLC instance
