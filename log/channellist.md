@@ -1,14 +1,14 @@
 #### Acre
 
 | Cidade | Network | Nome | EPG | Logo | URL | Observação |
-| ------ | ------- | ---- | :-: | :--: | :-: | ---------- |
-| Cruzeiro do Sul | Band | TV Integração | ❌ | ❌ | ❌ |
+| Goiânia | ------- | ---- | :-: | :--: | :-: | ---------- |
+| Cruzeiro do Sul | Band | TV Integração | ✔️ | ✔️ | ❌ |
 | Cruzeiro do Sul | Globo | Rede Amazônica Cruzeiro do Sul | ⚠️ | ⚠️ | ⚠️ |
 | Cruzeiro do Sul | Rede Vida | TV Verdes Florestas | ❌ | ❌ | ❌ |
 | Cruzeiro do Sul | SBT | TV Juruá | ❌ | ❌ | ❌ |
 | Feijó | SBT | TVA Feijó | ❌ | ❌ | ❌ |
 | Rio Branco | Band | TV5 | ❌ | ❌ | ❌ |
-| Rio Branco | Globo | Rede Amazônica Rio Branco | ⚠️ | ⚠️ | ⚠️ |
+| Rio Branco | Globo | Rede Amazônica Rio Branco | ✅️ | ⚠️ | ⚠️ |
 | Rio Branco | RecordTV | TV Gazeta | ❌ | ❌ | ❌ |
 | Rio Branco | Rede Brasil | TV Cidade | ❌ | ❌ | ❌ |
 | Rio Branco | Rede Legislativa | TV ALEAC | ❌ | ❌ | ❌ |
@@ -28,12 +28,12 @@
 | ------ | ------- | ---- | :-: | :--: | :-: | ---------- |
 | Maceió | Band | Band Maceió | ❌ | ❌ | ❌ |
 | Maceió | Globo | TV Gazeta (Maceió) | ⚠️ | ⚠️ | ⚠️ |
-| Maceió | RecordTV | TV Pajuçara | ❌ | ❌ | ❌ |
+| Maceió | RecordTV | TV Pajuçara | ❌ | ✔️ | ❌ |
 | Maceió | Rede Mundial | TV Farol | ❌ | ❌ | ❌ |
-| Maceió | SBT | TV Ponta Verde | ❌ | ❌ | ❌ |
+| Maceió | SBT | TV Ponta Verde | ✔️ | ✔️ | ✔️ |
 | Maceió | Sem Rede | TV Cidadã | ❌ | ❌ | ❌ |
-| Maceió | TV Brasil | TV UFAL | ❌ | ❌ | ❌ |
-| Maceió | TV Cultura | Educativa TV | ❌ | ❌ | ❌ |
+| Maceió | TV Brasil | TV UFAL | ✔️ | ✔️ | ✔️ |
+| Maceió | TV Cultura | Educativa TV | ✔️ | ✔️ | ✔️ |
 
 #### Amazonas
 
@@ -42,7 +42,7 @@
 | Itacoatiara | Globo | Rede Amazônica Itacoatiara | ⚠️ | ⚠️ | ⚠️ |
 | Manaus | Band | Band Amazonas | ❌ | ❌ | ❌ |
 | Manaus | Boas Novas | Boas Novas Manaus | ❌ | ❌ | ✔️ |
-| Manaus | CNT | CNT Manaus | ❌ | ✔️ | ✔️ |
+| Manaus | CNT | CNT Manaus | ✔️ | ✔️ | ✔️ |
 | Manaus | Globo | Rede Amazônica Manaus | ⚠️ | ⚠️ | ⚠️ |
 | Manaus | Record News | Record News AM | ❌ | ❌ | ❌ |
 | Manaus | RecordTV | RecordTV Manaus | ❌ | ✔️ | ✔️ |
@@ -65,12 +65,12 @@
 #### Amapá
 
 | Cidade | Network | Nome | EPG | Logo | URL | Observação |
-| ------ | ------- | ---- | :-: | :--: | :-: | ---------- |
+| Goiânia | ------- | ---- | :-: | :--: | :-: | ---------- |
 | Ferreira Gomes | SBT | TV Ferreira Gomes | ❌ | ❌ | ❌ |
 | Laranjal do Jari | SBT | TV Verdade Jari | ❌ | ❌ | ❌ |
 | Macapá | Band | TV Macapá | ❌ | ❌ | ❌ |
 | Macapá | Globo | Rede Amazônica Macapá | ⚠️ | ⚠️ | ⚠️ |
-| Macapá | Rede Legislativa | TV Assembleia | ❌ | ❌ | ❌ |
+| Macapá | Rede Legislativa | TV Assembleia | ❌ | ❌ | ❌ | 
 | Macapá | Rede TV! | TV Tucuju | ❌ | ❌ | ❌ |
 | Macapá | Record News | TV Marco Zero | ❌ | ❌ | ❌ |
 | Macapá | RecordTV | TV Equinócio | ❌ | ❌ | ❌ |
@@ -95,7 +95,7 @@
 | Juazeiro | Globo | TV São Francisco | ⚠️ | ⚠️ | ⚠️ |
 | Salvador | Band | Band Bahia | ❌ | ❌ | ❌ |
 | Salvador | CNT | CNT Bahia | ✔️ | ✔️ | ✔️ |
-| Salvador | Globo | TV Bahia | ⚠️ | ⚠️ | ⚠️ |
+| Salvador | Globo | TV Bahia | ✔️| ⚠️ | ⚠️ |
 | Salvador | RecordTV | RecordTV Itapoan | ❌ | ✔️ | ✔️ |
 | Salvador | Rede Legislativa | TV ALBA | ❌ | ❌ | ✔️ |
 | Salvador | Rede Legislativa | TV Câmara Municipal Salvador | ❌ | ❌ | ❌ |
@@ -106,4 +106,4 @@
 | Salvador | TVT | TV Kirimurê | ❌ | ❌ | ❌ |
 | Teixeira de Freitas | RIT | TV Sul Bahia | ❌ | ❌ | ❌ |
 | Vitória da Conquista | Globo | TV Sudoeste | ⚠️ | ⚠️ | ⚠️ |
-| Vitória da Conquista | TVE Bahia | TV UESB | ❌ | ❌ | ❌ |
+| Vitória da Conquista | TVE Bahia | TV UESB | ✔️ | ✔️ | ✔️ |
